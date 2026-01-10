@@ -1,0 +1,1 @@
+Energy is the resource spent to attempt most actions in Animus. Actions typically cost anywhere from 0-3 energy, as energy resets to 3 at the beginning of the round. If an action specifies an energy of 0, it is free to do anytime during your turn, unless specified otherwise.

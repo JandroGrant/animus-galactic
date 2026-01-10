@@ -1,0 +1,1 @@
+Neurons are small, artificial, and purposed organisms designed for self defense. Each neuron deals only 1 damage, but always hits regardless of the target's [[Hit Chance]]. Neurons can be launched for 1 [[Energy]] at any one target. Doing so will send all of your current neurons towards that one target, dealing damage equal to your total amount.

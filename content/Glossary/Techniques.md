@@ -1,0 +1,1 @@
+Techniques are specialized, physical abilities that can be used in and out of combat. Techniques are typically tied to either a Strength or Dexterity Skill.

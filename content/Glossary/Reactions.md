@@ -1,0 +1,1 @@
+Reactions are are resource used to perform some ability in *reaction* to another action. Reactions are typically used on another combatant's turn, although not always. If a reaction is required, but an action to react to is not specified, then the reaction can be used after any action.

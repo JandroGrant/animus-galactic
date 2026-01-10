@@ -1,0 +1,1 @@
+Shivs are small, simple, and quick-to-make knives that can spread fast damage across a battlefield. Shivs deal 1d6 damage, count as either a ranged or melee attack roll (depending on the context), and can be thrown one at a time for 1 [[Energy]]. Alternatively, one shiv can be thrown alongside any movement action.
