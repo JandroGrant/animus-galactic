@@ -1,5 +1,6 @@
 When first discovered, the power behind the Anima chips was completely alien to those tinkering with it. The scientists behind these discoveries found these feats so powerful, so phantasmal, that they hearkened back to phenomena of fantasy for their coinage: Spells. Spells in Animus can be "cast" to perform powerful effects, or "burned" to reduce cognitive load and heighten focus.
 ## Spell Slots
+// WIP
 ## Casting Spells
 Casting a spell requires two key factors from the caster (the combatant performing the spell):
 - Their cognitive focus, represented by either an Intelligence or Charisma Skill Check roll. Each spell will specify which it its description.
