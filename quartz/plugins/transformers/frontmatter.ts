@@ -152,6 +152,11 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
+        isSpell: boolean
+        spellSkillCheck: string
+        spellType: string
+        spellCost: string
+        spellPenalty: string
       }>
   }
 }

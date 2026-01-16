@@ -1,0 +1,1 @@
+When an attack roll is made against you, your Hit Chance is used to tell if the attack hits you. Your Hit Chance is equal to your Reflex skill + 6.
