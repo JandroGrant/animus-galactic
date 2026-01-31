@@ -1,12 +1,7 @@
 ---
 tags:
-  - "#Biology"
   - "#Perk"
-  - "#Neurons"
-  - "#Damage"
-  - "#Damage/CrititcalHits"
-  - "#Healing"
-  - "#Charisma"
+  - Perk/Biology
 ---
 *Requirements:*
 - Biology 9

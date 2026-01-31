@@ -1,8 +1,7 @@
 ---
 tags:
-  - "#Perk/Mechanics"
-  - Doubles
-  - Damage
+  - Perk
+  - Perk/Mechanics
 ---
 *Requirements:*
 - Mechanics 6

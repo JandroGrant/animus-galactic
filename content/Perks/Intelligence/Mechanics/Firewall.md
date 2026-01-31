@@ -1,8 +1,7 @@
 ---
 tags:
+  - Perk
   - Perk/Mechanics
-  - "#SpellBurning"
-  - "#Block"
 ---
 *Requirements:*
 - Mechanics 6
