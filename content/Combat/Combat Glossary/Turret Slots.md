@@ -1,1 +1,0 @@
-Turret Slots are an expendable resource that allows combatants to summon turrets, drones, plants, and other animated allies on the battlefield.
