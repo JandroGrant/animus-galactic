@@ -1,0 +1,41 @@
+---
+aliases:
+  - XP
+  - xp
+  - experience points
+---
+Experience Points, often just referred to as "XP", "xp", or just "experience", are a meta resource used by the players to enhance the skills and abilities of their characters. Experience is marked highest on each Character sheet, next to the name. For the players, experience can be spent on:
+- Maximum HP
+- Skill Upgrades
+- Spells
+- Techniques
+- Perks of all Different Tiers
+
+For the Cosmic Referee, when any one player gains experience, gain as much. This experience amount is used for the balance of the game, this can be determining the difficulty of enemies that the players can encounter, the strength of the items and equipment the players can find/purchase, and some other aspects of the game.
+# Gaining Experience Points
+
+Experience is gained most often in small amounts as reward for tough situations such as combat. Rarely though, a large amount of experience can be gained by completing a difficult challenge or by progressing past important points in a story. Gaining experience this way is a good way to emulate a milestone or "Level Up" system into Animus.
+
+It is important that when experience is given to the party, each player within the party gains the same amount of experience.
+
+## Suggested Way of Play
+
+What follows is the suggested way of gaining experience, but by no means the only way of doing so:
+- Simple combats that the party defeats quickly should reward an amount of experience points equal to about half the amount of enemy combatants. Enemy combatants in these fights are typically not very strong and don't pose much of a lasting thread to the players. Players in these combats probably don't feel as though they are in too much danger.
+- Moderate combats that take a bit of extra effort to complete should reward roughly one experience point per enemy combatant.
+
+# Spending Experience Points
+
+As stated before, experience points can be spent to enhance the abilities and skills of the player characters. It is encouraged for players to spend experience points in-between sessions as to give the Referee time to prepare accordingly.
+
+Experience points can be spent according to the following table:
+
+| Point Cost | Reward                 |
+| ---------- | ---------------------- |
+| 8 XP       | 7 or 2d6 Maximum HP    |
+| 8 XP       | 1 Skill Point Increase |
+| 10 XP      | 1 Spell or Technique   |
+| 12 XP      | a Tier I Perk          |
+| 24 XP      | a Tier II Perk         |
+| 36 XP      | a Tier III Perk        |
+| 48 XP      | a Tier IV Perk         |

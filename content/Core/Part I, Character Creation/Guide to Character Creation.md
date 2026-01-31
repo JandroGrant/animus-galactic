@@ -1,1 +1,0 @@
-When creating a character for Animus, all

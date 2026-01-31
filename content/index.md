@@ -4,8 +4,6 @@ aliases:
   - Home
 ---
 To-do:
-- Intro:
-	- About the World
 - Part I, Character Creation:
 	- Races and Origins
 	- Backgrounds and Disciplines
