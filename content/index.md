@@ -4,14 +4,13 @@ aliases:
   - Home
 ---
 To-do:
-- Part I, Character Creation:
-	- Races and Origins
-	- Backgrounds and Disciplines
-	- Experience Points
-	- Skills and their in world applications
-	- HP and Block
-	- Stress
-- Part II, How the Game is Played
-	- Using Skills
-		- Skill Checks
-	- 
+- [ ] Part I, Character Creation:
+	- [ ] Peoples and Origins
+	- [ ] Backgrounds and Disciplines
+	- [x] Experience Points
+	- [ ] Skills and their in world applications
+	- [ ] HP and Block
+	- [ ] Stress
+- [ ] Part II, How the Game is Played
+	- [ ] Using Skills
+		- [ ] Skill Checks
