@@ -14,3 +14,10 @@ To-do:
 - [ ] Part II, How the Game is Played
 	- [ ] Using Skills
 		- [ ] Skill Checks
+	- [ ] Social Scenarios
+		- [ ] todo!()
+	- [ ] Combat Scenarios
+		- [ ] Initiative
+		- [ ] Movement
+		- [ ] Attacks
+		- [ ] Spells
